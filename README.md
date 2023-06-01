@@ -2,9 +2,8 @@
 
 ### 👋 &nbsp;Hi there, I'm Neil
 - 🎓 Student | 🧑🏻‍💻 Front-end Engineer
-- [@ano-ui](https://github.com/ano-ui) creator
-- [@unocss-applet](https://github.com/unocss-applet) creator
-- [@uni-helper](https://github.com/uni-helper) member
+- Author of [@ano-ui](https://github.com/ano-ui) and [@unocss-applet](https://github.com/unocss-applet)
+- Member of [@uni-helper](https://github.com/uni-helper)
 - [@vuejs](https://github.com/vuejs/core), [@uni-app](https://github.com/dcloudio/uni-app), [@nuxt](https://github.com/nuxt/nuxt), [@vite](https://github.com/vitejs/vite) etc. ecological contributors
 
 
@@ -24,3 +23,8 @@
 <code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
+
+<p>
+  <img src="https://github.com/zguolee/github-stats-transparent/blob/output/generated/overview.svg">
+  <img src="https://github.com/zguolee/github-stats-transparent/blob/output/generated/languages.svg">
+ </p>
