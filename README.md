@@ -25,6 +25,6 @@
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
 
 <p>
-  <img src="https://github.com/zguolee/github-stats-transparent/blob/output/generated/overview.svg">
-  <img src="https://github.com/zguolee/github-stats-transparent/blob/output/generated/languages.svg">
+  <img src="https://cdn.jsdelivr.net/gh/zguolee/github-stats-transparent@output/generated/overview.svg">
+  <img src="https://cdn.jsdelivr.net/gh/zguolee/github-stats-transparent@output/generated/languages.svg">
  </p>
