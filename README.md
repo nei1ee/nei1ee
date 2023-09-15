@@ -18,11 +18,10 @@
 <code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>
 <code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nuxt-icon.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-vueuse.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
-<code><img height="20" src="https://api.iconify.design/logos-vitest.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-pnpm.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nodejs-icon.svg"></code>
+<code><img height="20" src="https://api.iconify.design/logos-go.svg"></code>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/zguolee/github-stats-transparent@output/generated/overview.svg">
